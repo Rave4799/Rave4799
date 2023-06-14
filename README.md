@@ -11,7 +11,7 @@
 
 
 <br />
-I'm Ravichandra Jupudi, a passionate <em><b>Mechatronics and Robotics Student</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=25 height=25> </em>
+I'm Ravichandra Jupudi, An <em><b>Mechatronics and Robotics Student</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=25 height=25> </em>
  
 
 
@@ -27,40 +27,16 @@ I'm Ravichandra Jupudi, a passionate <em><b>Mechatronics and Robotics Student</b
 
 #### Languages:
 <a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
-<a target="_blank"><img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /></a>
-<a target="_blank"><img alt="R" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /></a>
+<a target="_blank"><img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-276DC3?style=for-the-badge&logo=MATLAB&logoColor=white" /></a>
+<a target="_blank"><img alt="C+" src="https://img.shields.io/badge/C+-ED8B00?style=for-the-badge&logo=C+&logoColor=white" /></a>
 
-#### Packages:
-<a target="_blank"><img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" /></a>
-<a target="_blank"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /></a>
-<a target="_blank"><img alt="Scikit-Learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a>
-<a target="_blank"><img alt="Matplotlib" src="https://img.shields.io/badge/-matplotlib-2C2D72?style=for-the-badge&logo=matplotlib&logoColor=white" /></a>
-<a target="_blank"><img alt="Seaborn" src="https://img.shields.io/badge/-seaborn-EE4C2C?style=for-the-badge&logo=seaborn&logoColor=white" /></a>
-<a target="_blank"><img alt="ggplot" src="https://img.shields.io/badge/-ggplot-F7931E?style=for-the-badge&logo=ggplot&logoColor=white" /></a>
-<a target="_blank"><img alt="dplyr" src="https://img.shields.io/badge/-dplyr-2C2D72?style=for-the-badge&logo=dplyr&logoColor=white" /></a>
 
 #### Databases:
 <a target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" /></a>
 
-#### Systems:
-<a target="_blank"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /></a>
-
 
 ### Connect with me:
 
- <a href="https://www.linkedin.com/in/vamshidhar-p-6550b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/vamshi_pratap//" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
+ <a href="https://www.linkedin.com/in/ravichandra-jupudi-204870243/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
  
-<h2>👀 My github Stats</h2>
-<img align="left" alt="dots" width="200" src="http://orig10.deviantart.net/6512/f/2013/236/1/5/heart_gif_by_heyrobots-d6jl5ut.png">
 
-
-[![Vamshi's github stats](https://github-readme-stats.vercel.app/api?username=vamshidharpratap&theme=graywhite&show_icons=true&hide=issues,contribs&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79)](https://github.com/vamshidharpratap/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vamshidharpratap&layout=compact&show_icons=true&include_all_commits=true&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite)](https://github.com/vamshidharpratap/github-readme-stats)
-
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
-
------
-Credits: [Vamshidhar Pratap](https://github.com/Vamshidhar)
-
-Last Edited on: 25/12/2022
