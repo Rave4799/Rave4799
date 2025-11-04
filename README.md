@@ -30,7 +30,9 @@ I'm Ravichandra Jupudi, An <em><b>Mechatronics and Robotics Student</b> <img src
 <a target="_blank"><img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-276DC3?style=for-the-badge&logo=MATLAB&logoColor=white" /></a>
 <a target="_blank"><img alt="C+" src="https://img.shields.io/badge/C+-ED8B00?style=for-the-badge&logo=C+&logoColor=white" /></a>
 
-
+### TOOLS:
+<a target="_blank"><img alt="PyTorch" 
+<a target="_blank"><img alt="TensorFLow" 
 
 
 ### Connect with me:
