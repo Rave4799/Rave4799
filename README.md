@@ -15,14 +15,19 @@ I'm Ravichandra Jupudi, An <em><b>Mechatronics and Robotics Student</b> <img src
  
 
 
-- 📚 I'm a Postgraduate studying **Mechatronics and Robotics** at the [Schmalkalden University of Applied Sciences,Turingia,Germany](https://www.hs-schmalkalden.de/en/studying/programmes/master-degree-courses/mechatronics-and-robotics)
+- 📚 I'm a Master Degree Student studying **Mechatronics and Robotics** at the [Schmalkalden University of Applied Sciences,Turingia,Germany](https://www.hs-schmalkalden.de/en/studying/programmes/master-degree-courses/mechatronics-and-robotics)
 
-- 🧠 Currently learning about Automation Technologies,Industrial Robots and Applications, Mechatronics engineering and Machine Learning Technologies .
+- 🧠 with a strong foundation in deep learning, computer vision, and 3D perception for autonomous systems.
+
+Skilled in self-supervised learning, knowledge distillation, and multi-sensor fusion to develop compact, scalable perception models. 
+
+Seeking opportunities to contribute to AI-driven perception and control development in automotive and robotics applications.
+
 
 - 👯 I’m looking for a Master Thesis in Autonomous Driving or Robotic Applications .
 
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!<br>
-- Outside tech,  I love to Travel, Photography is my best hobby.
+
 - 📫 Reach out to me at: <a href="jupudiravichandra4799@gmail.com">jupudiravichandra4799@gmail.com</a>
 
 #### Languages:
