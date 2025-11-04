@@ -19,7 +19,7 @@ I'm Ravichandra Jupudi, An <em><b>Mechatronics and Robotics Student</b> <img src
 
 - 🧠 Currently learning about Automation Technologies,Industrial Robots and Applications, Mechatronics engineering and Machine Learning Technologies .
 
-- 👯 I’m looking for an internship.
+- 👯 I’m looking for a Master Thesis in Autonomous Driving or Robotic Applications .
 
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!<br>
 - Outside tech,  I love to Travel, Photography is my best hobby.
@@ -31,8 +31,6 @@ I'm Ravichandra Jupudi, An <em><b>Mechatronics and Robotics Student</b> <img src
 <a target="_blank"><img alt="C+" src="https://img.shields.io/badge/C+-ED8B00?style=for-the-badge&logo=C+&logoColor=white" /></a>
 
 
-#### Databases:
-<a target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" /></a>
 
 
 ### Connect with me:
