@@ -19,9 +19,9 @@ I'm Ravichandra Jupudi, An <em><b>Mechatronics and Robotics Student</b> <img src
 
 - 🧠 with a strong foundation in deep learning, computer vision, and 3D perception for autonomous systems.
 
-Skilled in self-supervised learning, knowledge distillation, and multi-sensor fusion to develop compact, scalable perception models. 
+    Skilled in self-supervised learning, knowledge distillation, and multi-sensor fusion to develop compact, scalable perception models. 
 
-Seeking opportunities to contribute to AI-driven perception and control development in automotive and robotics applications.
+    Seeking opportunities to contribute to AI-driven perception and control development in automotive and robotics applications.
 
 
 - 👯 I’m looking for a Master Thesis in Autonomous Driving or Robotic Applications .
